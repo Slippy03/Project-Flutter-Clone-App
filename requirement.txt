@@ -1,0 +1,8 @@
+แหล่งที่มา https://www.youtube.com/watch?v=RPvhoghXn54&ab_channel=MitchKoko
+
+Library ที่ใช้   
+-google_nav_bar: ^5.0.6
+-provider:
+-cupertino_icons: ^1.0.2
+
+ปล.ไฟล์รูปภาพ(asset)อยู่ในโฟล์เดอร์ lib/drink
